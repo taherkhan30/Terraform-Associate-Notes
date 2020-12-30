@@ -3,9 +3,10 @@
 
 Click on Exam Objectives to view Notes
 - [Objective-1-Understand Infrastructure As Code](https://github.com/taherkhan30/Terraform-Associate-Notes/blob/main/1.md)
-
-### Coming Soon 
 - [Objective 2: Understand Terraform’s Purpose (vs Other IaC)](https://github.com/taherkhan30/Terraform-Associate-Notes/blob/main/Objective%202)
+
+### Working on following
+
 - [Objective 3: Understand Terraform Basics] 
 - [Objective 4: Use the Terraform CLI (Outside of Core Workflow)] 
 - [Objective 5: Interact with Terraform Modules]
