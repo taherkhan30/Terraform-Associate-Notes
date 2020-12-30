@@ -2,7 +2,7 @@
 ## Notes for the Terraform Associate Exam 
 
 Click on Exam Objectives to view Notes
-- [Objective-1-Understand Infrastructure As Code](./1)
+- [Objective-1-Understand Infrastructure As Code](https://github.com/taherkhan30/Terraform-Associate-Notes/blob/main/1a-what-is-iac.md)
 
 
 
